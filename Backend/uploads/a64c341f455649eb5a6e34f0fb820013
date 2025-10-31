@@ -1,0 +1,23 @@
+[
+  {
+    "company": "ValueCorp",
+    "sales": 4500000,
+    "net income": 850000,
+    "yoy": "10%",
+    "assets": 5000000
+  },
+  {
+    "company": "FinSoft",
+    "revenue": 6000000,
+    "profit": 1200000,
+    "growth rate": "15%",
+    "assets": 6500000
+  },
+  {
+    "company": "MegaTech",
+    "turnover": 8000000,
+    "profit after tax": 2000000,
+    "growth": "18%",
+    "assets": 9000000
+  }
+]
